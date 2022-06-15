@@ -71,12 +71,12 @@ and compare their accuracy.
 
 ### Accuracy comparision table
 
-	Model	                |  Accuracy | Cross Validation Score   
-________________________|___________|_______________________
-  Linear Regression     |  54.1 %   |  54.23
-  K-Nearest Neighbour	  |  80.3 %   |  78.64
-  Decision Tree	        |  96.4 %   |  94.18
-  Random Forest	        |  97.4 %   |  96.02
+	Model	        	|  Accuracy 	| Cross Validation Score
+	________________________|_______________|_______________________
+	Linear Regression       |   z   54.1 %  |  54.23
+	K-Nearest Neighbour	|  80.3 %       |  78.64
+	Decision Tree	        |  96.4 %       |  94.18
+	Random Forest	        |  97.4 %       |  96.02
 
 ### Selecting best model
 
